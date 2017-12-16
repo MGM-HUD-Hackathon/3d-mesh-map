@@ -1,0 +1,19 @@
+--------------------------------
+Fri Dec 15 15:18:56 2017  -  <ddb> log opened
+Fri Dec 15 15:18:56 2017  -  Requesting package generation
+Fri Dec 15 15:19:40 2017  -  Requesting device to prepare for transfer
+Fri Dec 15 15:19:40 2017  -  Requesting package transfer to device
+Fri Dec 15 15:19:40 2017  -  Connecting to 10.10.46.188
+Fri Dec 15 15:19:41 2017  -  Starting scp session
+Fri Dec 15 15:19:41 2017  -  Copying package: SOF_Hud.dqz
+Fri Dec 15 15:19:41 2017  -  Reading file contents of SOF_Hud.dqz
+Fri Dec 15 15:19:42 2017  -  Writing file contents of SOF_Hud.dqz
+Fri Dec 15 15:19:45 2017  -  Requesting package installation
+Fri Dec 15 15:19:45 2017  -  Connecting to 10.10.46.188
+Fri Dec 15 15:19:45 2017  -  Executing SSH command
+Fri Dec 15 15:19:48 2017  -  Command executed successfully
+Utility finished with final message: Bundle installed successfully
+Application Installation successful!
+Success
+Fri Dec 15 15:19:48 2017  -  <ddb> log closed
+--------------------------------
